@@ -50,7 +50,7 @@ async function ProfilePage({
   return (
     <section className="w-full">
       <LargeHeading>
-        <GradientSpan size="xl" variant="blue_Grad">
+        <GradientSpan size="2xl" variant="blue_Grad">
           {person} Profile
         </GradientSpan>
       </LargeHeading>
